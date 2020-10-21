@@ -1,0 +1,6 @@
+div > h2 {
+font-size: 150%;
+text-align: center;
+text-decoration: cadetblue underline;
+margin: 10px auto;
+}
